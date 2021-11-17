@@ -125,9 +125,6 @@
       }
     },
     {
-  "type": "Feature",
-  "features": [
-      {
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
